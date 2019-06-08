@@ -1,0 +1,76 @@
+languageCode = "en-us"
+title = "Pavel Naumov"
+theme = "crab"
+baseurl = "https://example.com"
+
+[params]
+# description = "Pavel Naumov"
+# copyright = "foo"
+
+# mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+## Uncomment if you want mathjax enabled. The above cdn source is taken from https://gohugo.io/content-management/formats/#mathjax-with-hugo   
+
+
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Home"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "Projects"
+url = "/projects/"
+identifier = "projects"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 1
+  name = "EZ-Fit Lisbon"
+  url = "/projects/easy-fit/"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 1
+  name = "StaySafe"
+  url = "/projects/stay-safe/"
+  identifier = "stay-safe"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 1
+  name = "InfluenceMe"
+  url = "/projects/influencer-app/"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 1
+  name = "JS Plus"
+  url = "/projects/js-plus/"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 3
+  name = "ToDo App"
+  url = "/projects/todo-app/"
+
+[[menu.main]]
+weight = 3
+name = "Resume"
+url = "/cv/"
+
+[[menu.main]]
+weight = 3
+name = "Skills"
+url = "/skills/"
+
+[[menu.main]]
+weight = 6
+name = "Contact"
+url = "/contact/"
