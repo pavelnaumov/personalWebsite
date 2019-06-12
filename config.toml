@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Pavel Naumov"
 theme = "crab"
-baseurl = "https://pavel-naumov.herokuapps.com"
+baseurl = "https://pavel-naumov.herokuapp.com"
 
 [params]
 # description = "Pavel Naumov"
