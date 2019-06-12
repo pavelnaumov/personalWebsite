@@ -32,38 +32,27 @@ identifier = "projects"
   [[menu.main]]
   parent = "projects"
   weight = 1
+  name = "JS Plus"
+  url = "/projects/js-plus/"
+
+  [[menu.main]]
+  parent = "projects"
+  weight = 2
   name = "EZ-Fit Lisbon"
   url = "/projects/easy-fit/"
 
   [[menu.main]]
   parent = "projects"
-  weight = 1
+  weight = 3
   name = "StaySafe"
   url = "/projects/stay-safe/"
   identifier = "stay-safe"
 
   [[menu.main]]
   parent = "projects"
-  weight = 1
+  weight = 4
   name = "InfluenceMe"
   url = "/projects/influencer-app/"
-
-  [[menu.main]]
-  parent = "projects"
-  weight = 1
-  name = "JS Plus"
-  url = "/projects/js-plus/"
-
-  [[menu.main]]
-  parent = "projects"
-  weight = 3
-  name = "ToDo App"
-  url = "/projects/todo-app/"
-
-[[menu.main]]
-weight = 3
-name = "Resume"
-url = "/cv/"
 
 [[menu.main]]
 weight = 3
