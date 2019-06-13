@@ -2,6 +2,15 @@
 
 ***
 
+<img src="/uploads/PN-Headshot.jpeg" alt="" class="right" style="border-radius: 50%;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -10px;
+    height: 400px">
+
+
+***
+
 ## Work Experience
 
 **JS+**, Krasnodar , Russia - _Co-Founder, CTO_

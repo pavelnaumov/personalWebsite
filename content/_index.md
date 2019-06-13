@@ -2,7 +2,7 @@
 
 I'm passionate about start-ups, technology and business development. I have lived in 4 different countries, co-founded 3 start-ups and built several projects.
 
-Currently, I am a CTO of start-up that sits at the edge between medicine and law.
+Currently, I am the CTO of a medicine/law start-up .
 
 Curiosity is what really drives me: my interest range from football to Artifical Intelligence. I am interested in psychology, leadership, travelling, learning, playing different sports.
 I hold degrees of Bachelor of Laws from Lancaster University and Master of Science in Innovation, Strategy and Entrepreneurship from Grenoble Ecole de Management.
