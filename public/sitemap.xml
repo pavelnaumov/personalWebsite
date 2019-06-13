@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/projects/easy-fit/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/projects/influencer-app/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/projects/js-plus/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/projects/stay-safe/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/skills/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pavel-naumov.herokuapp.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
