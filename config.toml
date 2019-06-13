@@ -56,8 +56,8 @@ identifier = "projects"
 
 [[menu.main]]
 weight = 3
-name = "Skills"
-url = "/skills/"
+name = "CV"
+url = "/cv/"
 
 [[menu.main]]
 weight = 6
