@@ -4,7 +4,7 @@ theme = "crab"
 baseurl = "https://pavel-naumov.herokuapp.com"
 
 [params]
-# description = "Pavel Naumov"
+  description = "Pavel Naumov"
 # copyright = "foo"
 
 # mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
